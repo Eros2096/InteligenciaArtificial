@@ -1,6 +1,6 @@
 {
   "main": "imagenescontador.py",
-  "url": "http://",
+  "url": "/imagenescontador",
   "languaje": "Python",
   "onTime": "si",
   "score": "98",
